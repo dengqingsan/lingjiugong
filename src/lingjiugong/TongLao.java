@@ -6,6 +6,7 @@ public class TongLao {
 		System.out.println("tianshanzhemeishou");
 		System.out.println("xiao yao zhi");
 		System.out.println("li qiu shui");
+		System.out.println("hhhhhhhhhhh");
 	}
 
 }
